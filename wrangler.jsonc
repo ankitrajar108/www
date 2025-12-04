@@ -2,7 +2,7 @@
 	"name": "www",
 	"compatibility_date": "2025-09-02",
 	"assets": {
-		"directory": ".svelte-kit/cloudflare",
+		"directory": "build",
 		"not_found_handling": "404-page"
 	}
 }
