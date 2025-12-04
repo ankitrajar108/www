@@ -3,6 +3,7 @@ name: why i built this portfolio
 description: a short story about why i created this portfolio, what it means to me, and how it helps me grow as a developer.
 date: 2025-12-04
 icon: paper
+published: true
 ---
 
 i’ve always believed that every developer needs a place that truly feels like their own corner of the internet. not a template on social media, not a random linktree something i built myself, the way i wanted.

@@ -6,6 +6,7 @@ icon: code
 github: https://github.com/ankitrajar108/CVSnap
 link: https://cvsnap.app
 images: [cover.png]
+published: true
 ---
 
 CVSnap is a web application that generates professional headshots using AI models. Users upload a small set of photos and receive a full collection of polished, studio-quality headshots within minutes. The goal is to replace traditional photography sessions with a faster, more accessible, and more affordable alternative.
