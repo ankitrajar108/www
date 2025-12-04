@@ -46,7 +46,8 @@ const config = {
 		inlineStyleThreshold: Infinity,
 		prerender: {
 			handleMissingId: 'warn',
-			handleHttpError: 'warn'
+			handleHttpError: 'warn',
+			handleUnseenRoutes: 'ignore'
 		}
 	}
 };
