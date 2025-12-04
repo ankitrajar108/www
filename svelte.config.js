@@ -43,7 +43,11 @@ const config = {
 		paths: {
 			relative: false
 		},
-		inlineStyleThreshold: Infinity
+		inlineStyleThreshold: Infinity,
+		prerender: {
+			handleMissingId: 'warn',
+			handleHttpError: 'warn'
+		}
 	}
 };
 
